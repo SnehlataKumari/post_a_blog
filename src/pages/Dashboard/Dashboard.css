@@ -1,0 +1,12 @@
+.dashboard {
+  margin: 20px;
+  height: 400vh;
+}
+.greeting {
+  display: flex;
+}
+.button {
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+}
